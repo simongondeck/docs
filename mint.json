@@ -70,6 +70,7 @@
       ]
     }
   ],
+  "openapi": ["blob:https://developer.shipbob.com/edaaf8cf-f2cc-4169-9426-a44bec514e4c"],
   "footerSocials": {
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
