@@ -3,15 +3,15 @@
   "name": "Starter Kit",
   "logo": {
     "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "https://www.shipbob.com/wp-content/themes/shipbob-2022/resources/svg/logo.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
+    "primary": "#175cff",
     "light": "#07C983",
-    "dark": "#0D9373",
+    "dark": "#175cff",
     "anchors": {
-      "from": "#0D9373",
+      "from": "#175cff",
       "to": "#07C983"
     }
   },
